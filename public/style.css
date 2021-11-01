@@ -1,7 +1,38 @@
-body{
-  padding-top:80px;
-  word-wrap:break-word;
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+  color: white;
+  font-size: 12px;
+  line-height: 1.4;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #432818;
 }
-img{
-  height: 200px;
+
+*{
+  box-sizing: border-box;
+}
+
+.clear {
+ clear: both;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+h1{
+  text-align: center;
+}
+body{
+  font-size: 30px;
+}
+button{
+  color: #432818;
+  font-size: 25px;
+  border: 1px solid white;
+  background-color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
 }

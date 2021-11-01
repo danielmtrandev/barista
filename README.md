@@ -6,7 +6,7 @@
 ## Usage
 
 1. run `node server.js`
-2. Navigate to `localhost:8080`
+2. Navigate to `localhost:6500`
 
 ## Credit
 
@@ -14,4 +14,4 @@ Modified from Scotch.io's auth tutorial
 
 <img src="barista.png"></img>
 
-Link to live site: [https://danielmtran-barista-fullstack.netlify.app]
+Link to live site: [https://danielmtran-barista.netlify.app]
